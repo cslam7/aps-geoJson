@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "location": 407,
-        "buildintg": "Salt Storage Dome"
+        "building": "Salt Storage Dome"
       },
       "geometry": {
         "type": "Polygon",
