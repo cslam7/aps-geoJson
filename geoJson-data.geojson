@@ -134,8 +134,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 450,
-        "building": "APS Utility Building"
+        "building": "APS Utility Building",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=21>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -180,8 +186,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 401,
-        "building": "Central Lab and Office Building"
+        "building": "Central Lab and Office Building",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=3>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -374,8 +386,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 402,
-        "building": "Central Lab and Office Building/Auditorium"
+        "building": "Central Lab and Office Building/Auditorium",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=4>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -492,8 +510,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 438,
-        "building": "Lab/Office Module"
+        "building": "Lab/Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=17>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -658,8 +682,14 @@
     {
       "type": "Feature",
       "properties": {
-        "location": 439,
-        "building": "Laboratory Office Module"
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "location": 437,
+        "building": "Laboratory Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=16>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -796,8 +826,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 440,
-        "building": "Center for Nanoscale Materials"
+        "building": "Center for Nanoscale Materials",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=18>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -966,8 +1002,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 441,
-        "building": "Scanning Probing Microscope"
+        "building": "Scanning Probing Microscope",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=19>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -1024,8 +1066,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 436,
-        "building": "Lab/Office Module"
+        "building": "Lab/Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=15>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -1158,8 +1206,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 435,
-        "building": "Lab/Office Module"
+        "building": "Lab/Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=14>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -1304,8 +1358,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 434,
-        "building": "Lab/Office Module"
+        "building": "Lab/Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=13>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -1434,8 +1494,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 433,
-        "building": "Lab/Office Module"
+        "building": "Lab/Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=12>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -1564,8 +1630,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 432,
-        "building": "Lab/Office Module"
+        "building": "Lab/Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=11>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -1712,7 +1784,8 @@
         "fill": "#555555",
         "fill-opacity": 0.5,
         "location": 431,
-        "building": "Lab/Office Module"
+        "building": "Lab/Office Module",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=10>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -1857,8 +1930,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 400,
-        "building": "Experiment Hall and EAA"
+        "building": "Experiment Hall and EAA",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=1>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -2471,8 +2550,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 420,
-        "building": "APS"
+        "building": "APS",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=9>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -2581,8 +2666,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": "400A",
-        "building": "SPX/SRF Cyrogenics Facility"
+        "building": "SPX/SRF Cyrogenics Facility",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=2>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -2675,8 +2766,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 411,
-        "building": "APS"
+        "building": "APS",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=5>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -2753,8 +2850,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 412,
-        "building": "APS"
+        "building": "APS",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=6>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -2815,8 +2918,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 413,
-        "building": "APS"
+        "building": "APS",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=7>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -2881,8 +2990,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 415,
-        "building": "Synchrotron Enclosure"
+        "building": "Synchrotron Enclosure",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=8>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3063,8 +3178,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 446,
-        "building": "Advanced Protein Crystallization Facility"
+        "building": "Advanced Protein Crystallization Facility",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=20>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3325,8 +3446,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 382,
-        "building": "APS Vacuum Systems"
+        "building": "APS Vacuum Systems",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=397>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3383,8 +3510,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 314,
-        "building": "Custodial Operations"
+        "building": "Custodial Operations",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=399>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3433,8 +3566,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 378,
-        "building": "APS Storage"
+        "building": "APS Storage",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=933>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3467,8 +3606,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 335,
-        "building": "Energy Technology Division"
+        "building": "Energy Technology Division",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=6528>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3517,8 +3662,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 369,
-        "building": "High Bay 369"
+        "building": "High Bay 369",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=18453>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3583,8 +3734,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 375,
-        "building": "Intense Pulsed Neutron Source"
+        "building": "Intense Pulsed Neutron Source",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=20223>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3677,8 +3834,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": 981,
-        "building": "Offsite Building"
+        "building": "Offsite Building",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=42984>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3711,8 +3874,14 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "location": "363B",
-        "building": "Central Shops & Materials & Services"
+        "building": "Central Shops & Materials & Services",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=105898>Click Here for CDB URL</a>"
       },
       "geometry": {
         "type": "Polygon",
@@ -3737,6 +3906,46 @@
             [
               -87.9737439751625,
               41.705963804004774
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "location": 800,
+        "building": "Storage Containers",
+        "url": "<a href=https://cdb.aps.anl.gov/cdb/views/itemDomainLocation/view?id=57682>Click Here for CDB URL</a>"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.99551546573637,
+              41.71269269827784
+            ],
+            [
+              -87.99220561981201,
+              41.71269269827784
+            ],
+            [
+              -87.99220561981201,
+              41.714430622871824
+            ],
+            [
+              -87.99551546573637,
+              41.714430622871824
+            ],
+            [
+              -87.99551546573637,
+              41.71269269827784
             ]
           ]
         ]
