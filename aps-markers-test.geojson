@@ -4,8 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "marker-symbol": "",
-        "placement": "N"
+        "placement": "N",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2FN&psig=AOvVaw3-DrA6tgKBAMz5LUaHqsnO&ust=1649465177126000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCLDz5-Keg_cCFQAAAAAdAAAAABAD"
       },
       "geometry": {
         "type": "Point",
@@ -18,8 +21,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "marker-symbol": "",
-        "placement": "S"
+        "placement": "S",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hobbylobby.com%2Fp%2F101468&psig=AOvVaw2kUNXBEoKaOs929SUAC6yH&ust=1649465257361000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPCNgoifg_cCFQAAAAAdAAAAABAD"
       },
       "geometry": {
         "type": "Point",
@@ -32,8 +38,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "marker-symbol": "",
-        "placement": "W"
+        "placement": "W",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wiktionary.org%2Fwiki%2Fw&psig=AOvVaw22EbrAEO0sq1gkGtjQqIP5&ust=1649465240531000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODXkYCfg_cCFQAAAAAdAAAAABAD"
       },
       "geometry": {
         "type": "Point",
@@ -46,8 +55,11 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
         "marker-symbol": "",
-        "placement": "E"
+        "placement": "E",
+        "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hobbylobby.com%2Fp%2F101455&psig=AOvVaw180WBboQ3ZTMkaJ3HbtSfk&ust=1649465211741000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPC7hfSeg_cCFQAAAAAdAAAAABAD"
       },
       "geometry": {
         "type": "Point",
